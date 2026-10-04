@@ -1,0 +1,524 @@
+{
+  "ruta": "/calentadores-de-agua-solares/",
+  "estado_http": 200,
+  "redirige_a": "",
+  "title": "Calentadores Solares de Agua | Eficiencia y Sostenibilidad",
+  "meta_description": "Descubre los mejores calentadores solares de agua para tu hogar o empresa. Ahorra energía y obtén eficiencia y durabilidad con nuestras soluciones ecológicas.",
+  "robots": "max-image-preview:large",
+  "canonical": "https://gruposole.com.co/calentadores-de-agua-solares/",
+  "og": {
+    "og:locale": "es_ES",
+    "og:site_name": "Grupo Sole  - Construcción sostenible",
+    "og:type": "article",
+    "og:title": "Calentadores Solares de Agua | Eficiencia y Sostenibilidad",
+    "og:description": "Descubre los mejores calentadores solares de agua para tu hogar o empresa. Ahorra energía y obtén eficiencia y durabilidad con nuestras soluciones ecológicas.",
+    "og:url": "https://gruposole.com.co/calentadores-de-agua-solares/",
+    "og:image": "https://gruposole.com.co/wp-content/uploads/2024/02/cropped-grupo-sole-panda.png",
+    "og:image:secure_url": "https://gruposole.com.co/wp-content/uploads/2024/02/cropped-grupo-sole-panda.png",
+    "article:published_time": "2024-08-28T15:06:06+00:00",
+    "article:modified_time": "2024-11-05T16:46:25+00:00",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Calentadores Solares de Agua | Eficiencia y Sostenibilidad",
+    "twitter:description": "Descubre los mejores calentadores solares de agua para tu hogar o empresa. Ahorra energía y obtén eficiencia y durabilidad con nuestras soluciones ecológicas.",
+    "twitter:image": "https://gruposole.com.co/wp-content/uploads/2024/02/cropped-grupo-sole-panda.png"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://gruposole.com.co/calentadores-de-agua-solares/#breadcrumblist",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "@id": "https://gruposole.com.co#listItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://gruposole.com.co",
+              "nextItem": {
+                "@type": "ListItem",
+                "@id": "https://gruposole.com.co/calentadores-de-agua-solares/#listItem",
+                "name": "Calentadores Solares de Agua"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "@id": "https://gruposole.com.co/calentadores-de-agua-solares/#listItem",
+              "position": 2,
+              "name": "Calentadores Solares de Agua",
+              "previousItem": {
+                "@type": "ListItem",
+                "@id": "https://gruposole.com.co#listItem",
+                "name": "Home"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://gruposole.com.co/#organization",
+          "name": "Grupo Sole",
+          "description": "Construcción sostenible",
+          "url": "https://gruposole.com.co/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://gruposole.com.co/wp-content/uploads/2024/02/cropped-grupo-sole-panda.png",
+            "@id": "https://gruposole.com.co/calentadores-de-agua-solares/#organizationLogo",
+            "width": 249,
+            "height": 250
+          },
+          "image": {
+            "@id": "https://gruposole.com.co/calentadores-de-agua-solares/#organizationLogo"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://gruposole.com.co/calentadores-de-agua-solares/#webpage",
+          "url": "https://gruposole.com.co/calentadores-de-agua-solares/",
+          "name": "Calentadores Solares de Agua | Eficiencia y Sostenibilidad",
+          "description": "Descubre los mejores calentadores solares de agua para tu hogar o empresa. Ahorra energía y obtén eficiencia y durabilidad con nuestras soluciones ecológicas.",
+          "inLanguage": "es-CO",
+          "isPartOf": {
+            "@id": "https://gruposole.com.co/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://gruposole.com.co/calentadores-de-agua-solares/#breadcrumblist"
+          },
+          "datePublished": "2024-08-28T10:06:06-05:00",
+          "dateModified": "2024-11-05T11:46:25-05:00"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://gruposole.com.co/#website",
+          "url": "https://gruposole.com.co/",
+          "name": "Grupo Sole",
+          "description": "Construcción sostenible",
+          "inLanguage": "es-CO",
+          "publisher": {
+            "@id": "https://gruposole.com.co/#organization"
+          }
+        }
+      ]
+    }
+  ],
+  "whatsapp": [
+    "https://wa.me/573108893614",
+    "https://wa.me/573202336372"
+  ],
+  "telefonos": [],
+  "emails": [],
+  "youtube": [],
+  "contenido": [
+    {
+      "tipo": "h1",
+      "texto": "Calentadores Solares de Agua",
+      "seccion": "0025afc"
+    },
+    {
+      "tipo": "h1",
+      "texto": "SOLUCIONES EFICIENTES Y ECOLÓGICAS",
+      "seccion": "0025afc"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "En GRUPO SOLE, transformamos la energía solar en confort y ahorro. Con más de 10 años de experiencia y más de 1000 proyectos exitosos, ofrecemos calentadores solares de agua de la más alta calidad, diseñados para brindarte eficiencia energética y sostenibilidad.",
+      "seccion": "0025afc"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "calentadores-de-agua-en-bogota-grupo-sole.webp",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/10/calentadores-de-agua-en-bogota-grupo-sole.webp",
+      "alt": "calentadores de agua en bogota- grupo sole",
+      "ancho": "525",
+      "alto": "333",
+      "seccion": "101724f"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Nuestros Productos",
+      "seccion": "2204907"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Calentadores Solares de Agua",
+      "seccion": "2204907"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "En GRUPO SOLE, ofrecemos una variedad de calentadores solares de agua diseñados para diferentes necesidades:",
+      "seccion": "2204907"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "calentador-de-agua-solar-presurizado-grupo-sole.webp",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/10/calentador-de-agua-solar-presurizado-grupo-sole.webp",
+      "alt": "calentador de agua solar presurizado - grupo sole",
+      "ancho": "525",
+      "alto": "333",
+      "seccion": "dc9fa1a"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "calentadores-presurizados-bogota.webp",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/10/calentadores-presurizados-bogota.webp",
+      "alt": "calentadores presurizados bogota",
+      "ancho": null,
+      "alto": null,
+      "seccion": "dc9fa1a"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "calentadores-presurizados-en-bogota.webp",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/10/calentadores-presurizados-en-bogota.webp",
+      "alt": "calentadores presurizados en bogota",
+      "ancho": null,
+      "alto": null,
+      "seccion": "dc9fa1a"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "calentador-solar-presurizado-en-bogota.webp",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/10/calentador-solar-presurizado-en-bogota.webp",
+      "alt": "calentador solar presurizado en bogota",
+      "ancho": null,
+      "alto": null,
+      "seccion": "dc9fa1a"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "calentador-de-agua-solar-presurizado-en-bogota-.webp",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/10/calentador-de-agua-solar-presurizado-en-bogota-.webp",
+      "alt": "calentador de agua solar presurizado en bogota",
+      "ancho": null,
+      "alto": null,
+      "seccion": "dc9fa1a"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Calentador de agua solar presurizado",
+      "seccion": "dc9fa1a"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Ficha Técnica Calentador Presurizado",
+      "href": "https://gruposole.com.co/wp-content/uploads/2024/11/Calentador-de-agua-solar-presurizado.pdf",
+      "seccion": "dc9fa1a"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Comprar Ahora",
+      "href": "https://wa.me/573108893614",
+      "seccion": "dc9fa1a"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "venta-de-calentador-de-agua-solar-despresurizado-grupo-sole.webp",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/10/venta-de-calentador-de-agua-solar-despresurizado-grupo-sole.webp",
+      "alt": "venta de calentador de agua solar despresurizado - grupo sole",
+      "ancho": "525",
+      "alto": "333",
+      "seccion": "7321386"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "calentador-solar-despresurizado-grupo-sole.webp",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/10/calentador-solar-despresurizado-grupo-sole.webp",
+      "alt": "calentador solar despresurizado - grupo sole",
+      "ancho": null,
+      "alto": null,
+      "seccion": "7321386"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "calentador-solar-despresurizado-bogota.webp",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/10/calentador-solar-despresurizado-bogota.webp",
+      "alt": "calentador solar despresurizado bogota",
+      "ancho": null,
+      "alto": null,
+      "seccion": "7321386"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "calentador-solar-en-bogota.webp",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/10/calentador-solar-en-bogota.webp",
+      "alt": "calentador solar en bogota",
+      "ancho": null,
+      "alto": null,
+      "seccion": "7321386"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "calentador-solar-despresurizado-en-bogota.webp",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/10/calentador-solar-despresurizado-en-bogota.webp",
+      "alt": "calentador solar despresurizado en bogota",
+      "ancho": null,
+      "alto": null,
+      "seccion": "7321386"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Calentador de agua solar despresurizado",
+      "seccion": "7321386"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Ficha Técnica Calentador Despresurizado",
+      "href": "https://gruposole.com.co/wp-content/uploads/2024/11/Calentador-de-agua-solar-despresurizado.pdf",
+      "seccion": "7321386"
+    },
+    {
+      "tipo": "boton",
+      "texto": "Comprar Ahora",
+      "href": "https://wa.me/573108893614",
+      "seccion": "7321386"
+    },
+    {
+      "tipo": "h2",
+      "texto": "¿Por Qué Elegir Calentadores Solares de Agua?",
+      "seccion": "69a57aa"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Los calentadores solares de agua son la opción perfecta para reducir costos y contribuir al cuidado del medio ambiente. Estos sistemas aprovechan la energía del sol para calentar el agua de tu hogar o negocio, disminuyendo significativamente tu consumo de energía eléctrica o de gas.",
+      "seccion": "69a57aa"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Ahorro Económico: Reduce hasta un 80% en tu factura de energía",
+      "seccion": "69a57aa"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Eficiencia Energética: Aprovecha al máximo la energía solar disponible.",
+      "seccion": "69a57aa"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Sostenibilidad: Contribuye a la reducción de emisiones de CO2",
+      "seccion": "69a57aa"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "calentadores-para-agua-grupo-sole.webp",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/10/calentadores-para-agua-grupo-sole.webp",
+      "alt": "calentadores para agua - grupo sole",
+      "ancho": "525",
+      "alto": "333",
+      "seccion": "50d49c2"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "shape-3.png",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/01/shape-3.png",
+      "alt": "",
+      "ancho": "180",
+      "alto": "180",
+      "seccion": "297b750"
+    },
+    {
+      "tipo": "h5",
+      "texto": "Vida útil prolongada",
+      "seccion": "8f1b910"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Aprovecha al máximo tu inversión.",
+      "seccion": "8f1b910"
+    },
+    {
+      "tipo": "h5",
+      "texto": "Resistencia a la intemperie",
+      "seccion": "3e9c7cf"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Resistencia óptima ante condiciones adversas.",
+      "seccion": "3e9c7cf"
+    },
+    {
+      "tipo": "h5",
+      "texto": "Envíos a todo el país",
+      "seccion": "3941371"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "¡Recibe tu pedido en cualquier lugar del país!",
+      "seccion": "3941371"
+    },
+    {
+      "tipo": "h5",
+      "texto": "Ahorro de energía y gastos",
+      "seccion": "87aa890"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Reduzca costos y contribuya al medio ambiente.",
+      "seccion": "87aa890"
+    },
+    {
+      "tipo": "h3",
+      "texto": "Beneficios de Nuestros Calentadores Solares",
+      "seccion": "94693c1"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Al elegir un calentador solar de agua de GRUPO SOLE, obtienes:",
+      "seccion": "94693c1"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Durabilidad: Materiales de alta calidad que garantizan una larga vida útil.",
+      "seccion": "4b5ab9a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Fácil Mantenimiento: Diseños que requieren un mantenimiento mínimo.",
+      "seccion": "4b5ab9a"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Garantía de Satisfacción: Respaldados por nuestra experiencia y compromiso con la calidad.",
+      "seccion": "4b5ab9a"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Nuestros sistemas solares de agua caliente funciona capturando la energía del sol mediante paneles solares térmicos. Esta energía se utiliza para calentar el agua, que se almacena en un tanque aislado para su uso posterior. Es una solución eficiente y confiable para cualquier clima.",
+      "seccion": "1af42c7"
+    },
+    {
+      "tipo": "h2",
+      "texto": "¿Cómo Funciona un Sistema Solar de Agua Caliente?",
+      "seccion": "1af42c7"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Instalación Profesional y Soporte Técnico",
+      "seccion": "4b1945e"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "En GRUPO SOLE, no solo vendemos calentadores solares de agua; también ofrecemos un servicio de instalación profesional y soporte técnico especializado para asegurarnos de que tu sistema funcione a la perfección desde el primer día.",
+      "seccion": "4b1945e"
+    },
+    {
+      "tipo": "h3",
+      "texto": "Sistemas de Alta Capacidad",
+      "seccion": "931fcae"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Perfectos para empresas y grandes instalaciones.",
+      "seccion": "931fcae"
+    },
+    {
+      "tipo": "h3",
+      "texto": "Sistemas Compactos",
+      "seccion": "621b0c3"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Ideales para hogares con espacio limitado.",
+      "seccion": "621b0c3"
+    },
+    {
+      "tipo": "h3",
+      "texto": "Tecnología Avanzada",
+      "seccion": "a2830ca"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Paneles solares de última generación para máxima eficiencia.",
+      "seccion": "a2830ca"
+    },
+    {
+      "tipo": "h2",
+      "texto": "¡Contáctanos!",
+      "seccion": "c816705"
+    },
+    {
+      "tipo": "h1",
+      "texto": "Comienza a Ahorrar Hoy Mismo",
+      "seccion": "c816705"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "¿Listo para hacer el cambio a la energía solar?",
+      "seccion": "d72cb67"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "No esperes más para disfrutar de los beneficios de un calentador solar de agua. Contáctanos hoy mismo para una asesoría personalizada y descubre cómo podemos ayudarte a reducir tus costos energéticos mientras cuidas el planeta.",
+      "seccion": "d72cb67"
+    },
+    {
+      "tipo": "boton",
+      "texto": "WhatsApp",
+      "href": "https://wa.me/573108893614",
+      "seccion": "d72cb67"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Sistema-solar-de-agua-caliente-en-uso.webp",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/08/Sistema-solar-de-agua-caliente-en-uso.webp",
+      "alt": "Sistema solar de agua caliente en uso",
+      "ancho": null,
+      "alto": null,
+      "seccion": "8bccf54"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Tecnico-instalando-calentador-solar-de-agua.webp",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/08/Tecnico-instalando-calentador-solar-de-agua.webp",
+      "alt": "Tecnico instalando calentador solar de agua",
+      "ancho": null,
+      "alto": null,
+      "seccion": "8bccf54"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Panel-solar-termico-para-calentador-de-agua.webp",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/08/Panel-solar-termico-para-calentador-de-agua.webp",
+      "alt": "Panel solar térmico para calentador de agua",
+      "ancho": null,
+      "alto": null,
+      "seccion": "8bccf54"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Beneficios-de-los-calentadores-solares-de-agua-de-GRUPO-SOLE.webp",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/08/Beneficios-de-los-calentadores-solares-de-agua-de-GRUPO-SOLE.webp",
+      "alt": "Beneficios de los calentadores solares de agua de GRUPO SOLE",
+      "ancho": null,
+      "alto": null,
+      "seccion": "8bccf54"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Ejemplo-de-ahorro-energetico-con-calentadores-solares.webp",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/08/Ejemplo-de-ahorro-energetico-con-calentadores-solares.webp",
+      "alt": "Ejemplo de ahorro energetico con calentadores solares",
+      "ancho": null,
+      "alto": null,
+      "seccion": "8bccf54"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Panel-solar-para-calentador-de-agua.webp",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/08/Panel-solar-para-calentador-de-agua.webp",
+      "alt": "Panel solar para calentador de agua",
+      "ancho": null,
+      "alto": null,
+      "seccion": "8bccf54"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Instalacion-de-calentadores-solares-de-agua-en-empresa-1.webp",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/08/Instalacion-de-calentadores-solares-de-agua-en-empresa-1.webp",
+      "alt": "Instalacion de calentadores solares de agua en empresa",
+      "ancho": null,
+      "alto": null,
+      "seccion": "8bccf54"
+    }
+  ]
+}

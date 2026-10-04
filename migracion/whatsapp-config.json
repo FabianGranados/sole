@@ -1,0 +1,216 @@
+{
+  "plugin": "Social Chat / WhatsApp Chat (QuadLayers, wp-whatsapp-chat)",
+  "config": {
+    "class": "qlwapp",
+    "style": "--qlwapp-scheme-font-family:inherit;--qlwapp-scheme-font-size:18px;--qlwapp-scheme-icon-size:60px;--qlwapp-scheme-icon-font-size:24px;--qlwapp-scheme-box-max-height:400px;--qlwapp-scheme-brand:#25d366;--qlwapp-scheme-text:#ffffff;--qlwapp-scheme-text-secondary:#303030;--qlwapp-scheme-contact-role-color:inherit;--qlwapp-scheme-contact-name-color:inherit;--qlwapp-scheme-contact-availability-color:inherit;--qlwapp-scheme-box-message-word-break:break-all;--qlwapp-button-notification-bubble-animation:none;",
+    "data-contacts": [
+      {
+        "id": 1,
+        "bot_id": "",
+        "order": 0,
+        "active": 1,
+        "chat": 1,
+        "avatar": "https://www.gravatar.com/avatar/00000000000000000000000000000000",
+        "type": "phone",
+        "phone": "573202336372",
+        "group": "https://chat.whatsapp.com/EQuPUtcPzEdIZVlT8JyyNw",
+        "firstname": "John",
+        "lastname": "Doe",
+        "label": "Soporte",
+        "message": "¡Hola Grupo Sole! Vengo desde su página web y me gustaría recibir más información sobre sus soluciones de energía solar.",
+        "timefrom": "00:00",
+        "timeto": "00:00",
+        "timezone": "UTC-5",
+        "visibility": "readonly",
+        "timedays": [],
+        "whatsapp_link_type": "web",
+        "display": {
+          "entries": {
+            "post": {
+              "include": 1,
+              "ids": []
+            },
+            "page": {
+              "include": 1,
+              "ids": []
+            },
+            "product": {
+              "include": 1,
+              "ids": []
+            },
+            "wastix_project": {
+              "include": 1,
+              "ids": []
+            }
+          },
+          "taxonomies": {
+            "category": {
+              "include": 1,
+              "ids": []
+            },
+            "post_tag": {
+              "include": 1,
+              "ids": []
+            },
+            "product_cat": {
+              "include": 1,
+              "ids": []
+            }
+          },
+          "target": {
+            "include": 1,
+            "ids": []
+          },
+          "devices": "all"
+        }
+      }
+    ],
+    "data-primary-contact": {
+      "id": 1,
+      "bot_id": "",
+      "order": 0,
+      "active": 1,
+      "chat": 1,
+      "avatar": "https://www.gravatar.com/avatar/00000000000000000000000000000000",
+      "type": "phone",
+      "phone": "573202336372",
+      "group": "https://chat.whatsapp.com/EQuPUtcPzEdIZVlT8JyyNw",
+      "firstname": "John",
+      "lastname": "Doe",
+      "label": "Soporte",
+      "message": "¡Hola Grupo Sole! Vengo desde su página web y me gustaría recibir más información sobre sus soluciones de energía solar.",
+      "timefrom": "00:00",
+      "timeto": "00:00",
+      "timezone": "UTC-5",
+      "visibility": "readonly",
+      "timedays": [],
+      "whatsapp_link_type": "web",
+      "display": {
+        "entries": {
+          "post": {
+            "include": 1,
+            "ids": []
+          },
+          "page": {
+            "include": 1,
+            "ids": []
+          },
+          "product": {
+            "include": 1,
+            "ids": []
+          },
+          "wastix_project": {
+            "include": 1,
+            "ids": []
+          }
+        },
+        "taxonomies": {
+          "category": {
+            "include": 1,
+            "ids": []
+          },
+          "post_tag": {
+            "include": 1,
+            "ids": []
+          },
+          "product_cat": {
+            "include": 1,
+            "ids": []
+          }
+        },
+        "target": {
+          "include": 1,
+          "ids": []
+        },
+        "devices": "all"
+      }
+    },
+    "data-display": {
+      "devices": "all",
+      "entries": {
+        "post": {
+          "include": 1,
+          "ids": []
+        },
+        "page": {
+          "include": 1,
+          "ids": []
+        },
+        "product": {
+          "include": 1,
+          "ids": []
+        },
+        "wastix_project": {
+          "include": 1,
+          "ids": []
+        }
+      },
+      "taxonomies": {
+        "category": {
+          "include": 1,
+          "ids": []
+        },
+        "post_tag": {
+          "include": 1,
+          "ids": []
+        },
+        "product_cat": {
+          "include": 1,
+          "ids": []
+        }
+      },
+      "target": {
+        "include": 1,
+        "ids": []
+      }
+    },
+    "data-button": {
+      "layout": "bubble",
+      "box": "no",
+      "position": "bottom-right",
+      "text": "",
+      "icon": "qlwapp-whatsapp-icon",
+      "developer": "no",
+      "rounded": "yes",
+      "animation_name": "",
+      "animation_delay": "",
+      "notification_bubble": "none",
+      "notification_bubble_animation": "none",
+      "timefrom": "00:00",
+      "timeto": "00:00",
+      "timedays": [],
+      "timezone": "UTC-5",
+      "visibility": "readonly"
+    },
+    "data-box": {
+      "enable": "yes",
+      "auto_open": "no",
+      "auto_delay_open": 1000,
+      "lazy_load": "no",
+      "allow_outside_close": "no",
+      "header": "\n\t\t\t\t\t\t\t\t<p style=\"line-height: 1;text-align: start\"><span style=\"font-size: 12px;vertical-align: bottom;letter-spacing: -0.2px;opacity: 0.8;margin: 5px 0 0 1px\">Powered by</span></p>\n\t\t\t\t\t\t\t\t<p style=\"line-height: 1;text-align: start\"><a style=\"font-size: 24px;line-height: 34px;font-weight: bold;text-decoration: none;color: white\" href=\"https://quadlayers.com/products/whatsapp-chat/?utm_source=qlwapp_plugin&utm_medium=header&utm_campaign=social-chat\" target=\"_blank\" rel=\"noopener\">Social Chat</a></p>",
+      "footer": "<p style=\"text-align: start;\">Need help? Our team is just a message away</p>",
+      "response": "Escribe una respuesta",
+      "consent_message": "I accept cookies and privacy policy.",
+      "consent_enabled": "no"
+    },
+    "data-scheme": {
+      "font_family": "inherit",
+      "font_size": "18",
+      "icon_size": "60",
+      "icon_font_size": "24",
+      "box_max_height": "400",
+      "brand": "#25d366",
+      "text": "#ffffff",
+      "text_secondary": "#303030",
+      "link": "",
+      "message": "",
+      "label": "",
+      "name": "",
+      "contact_role_color": "inherit",
+      "contact_name_color": "inherit",
+      "contact_availability_color": "inherit",
+      "box_message_word_break": "break-all"
+    }
+  }
+}

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dinámicamente generated on 4 octubre, 2026 at 3:34 pm by All in One SEO v5.0.1.1 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://gruposole.com.co/default-sitemap.xsl"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Grupo Sole </title>
+		<link><![CDATA[https://gruposole.com.co]]></link>
+		<description><![CDATA[Grupo Sole ]]></description>
+		<lastBuildDate><![CDATA[Wed, 16 Oct 2024 16:14:45 +0000]]></lastBuildDate>
+		<docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+		<atom:link href="https://gruposole.com.co/sitemap.rss" rel="self" type="application/rss+xml" />
+		<ttl><![CDATA[60]]></ttl>
+
+		<item>
+			<guid><![CDATA[https://gruposole.com.co/quienes-somos/]]></guid>
+			<link><![CDATA[https://gruposole.com.co/quienes-somos/]]></link>
+			<title>Quienes Somos</title>
+			<pubDate><![CDATA[Wed, 16 Oct 2024 16:14:45 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/calentadores-de-agua-solares/]]></guid>
+			<link><![CDATA[https://gruposole.com.co/calentadores-de-agua-solares/]]></link>
+			<title>Calentadores Solares de Agua</title>
+			<pubDate><![CDATA[Tue, 05 Nov 2024 16:46:25 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?header_templates=header-01]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?header_templates=header-01]]></link>
+			<title>Header 01</title>
+			<pubDate><![CDATA[Thu, 29 Aug 2024 19:46:34 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?slider_templates=banner-slider]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?slider_templates=banner-slider]]></link>
+			<title>Banner Slider 01</title>
+			<pubDate><![CDATA[Thu, 22 Aug 2024 20:17:57 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?slider_templates=hero-slider-01]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?slider_templates=hero-slider-01]]></link>
+			<title>Hero Slider 01</title>
+			<pubDate><![CDATA[Thu, 22 Aug 2024 20:15:03 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/calentador-de-agua-solar-presurizado/]]></guid>
+			<link><![CDATA[https://gruposole.com.co/calentador-de-agua-solar-presurizado/]]></link>
+			<title>Calentador de agua solar presurizado</title>
+			<pubDate><![CDATA[Thu, 17 Oct 2024 17:55:00 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/calentador-de-agua-solar-sin-presion/]]></guid>
+			<link><![CDATA[https://gruposole.com.co/calentador-de-agua-solar-sin-presion/]]></link>
+			<title>Calentador de agua solar despresurizadas</title>
+			<pubDate><![CDATA[Thu, 17 Oct 2024 17:53:10 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?page_templates=home-page-three]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?page_templates=home-page-three]]></link>
+			<title>Home Page Three</title>
+			<pubDate><![CDATA[Thu, 22 Aug 2024 16:52:53 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?page_templates=dumpster-rental]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?page_templates=dumpster-rental]]></link>
+			<title>Dumpster Rental</title>
+			<pubDate><![CDATA[Thu, 22 Aug 2024 16:52:53 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?page_templates=waste-collection]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?page_templates=waste-collection]]></link>
+			<title>Waste Collection</title>
+			<pubDate><![CDATA[Thu, 22 Aug 2024 16:52:53 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?page_templates=garbage-pickup]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?page_templates=garbage-pickup]]></link>
+			<title>Garbage pickup</title>
+			<pubDate><![CDATA[Thu, 22 Aug 2024 16:52:53 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?page_templates=recycling-service]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?page_templates=recycling-service]]></link>
+			<title>Recycling service</title>
+			<pubDate><![CDATA[Thu, 22 Aug 2024 16:52:53 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?page_templates=residential-service]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?page_templates=residential-service]]></link>
+			<title>Residential Service</title>
+			<pubDate><![CDATA[Thu, 22 Aug 2024 16:52:53 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?page_templates=roll-off-dumpster]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?page_templates=roll-off-dumpster]]></link>
+			<title>Roll-Off Dumpster</title>
+			<pubDate><![CDATA[Thu, 22 Aug 2024 16:52:53 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?page_templates=team-page]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?page_templates=team-page]]></link>
+			<title>Team Page</title>
+			<pubDate><![CDATA[Thu, 22 Aug 2024 16:52:53 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?page_templates=project-details-2]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?page_templates=project-details-2]]></link>
+			<title>Project Details</title>
+			<pubDate><![CDATA[Thu, 22 Aug 2024 16:52:53 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?page_templates=team-details]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?page_templates=team-details]]></link>
+			<title>Team Details</title>
+			<pubDate><![CDATA[Thu, 22 Aug 2024 16:52:53 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?page_templates=projects-2]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?page_templates=projects-2]]></link>
+			<title>Projects 2</title>
+			<pubDate><![CDATA[Thu, 22 Aug 2024 16:52:53 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/]]></guid>
+			<link><![CDATA[https://gruposole.com.co/]]></link>
+			<title>Grupo Sole</title>
+			<pubDate><![CDATA[Thu, 10 Oct 2024 14:45:07 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?page_templates=pricing-table]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?page_templates=pricing-table]]></link>
+			<title>Pricing Table</title>
+			<pubDate><![CDATA[Thu, 22 Aug 2024 16:52:53 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?page_templates=error-page]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?page_templates=error-page]]></link>
+			<title>error page</title>
+			<pubDate><![CDATA[Thu, 22 Aug 2024 16:52:53 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?block_templates=project-all-works]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?block_templates=project-all-works]]></link>
+			<title>Project All Works</title>
+			<pubDate><![CDATA[Thu, 22 Aug 2024 16:52:50 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?block_templates=project-construction]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?block_templates=project-construction]]></link>
+			<title>Project Construction</title>
+			<pubDate><![CDATA[Thu, 22 Aug 2024 16:52:50 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?block_templates=project-hospital]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?block_templates=project-hospital]]></link>
+			<title>Project Hospital</title>
+			<pubDate><![CDATA[Thu, 22 Aug 2024 16:52:50 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?block_templates=pricing-table]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?block_templates=pricing-table]]></link>
+			<title>Pricing Table</title>
+			<pubDate><![CDATA[Thu, 22 Aug 2024 16:52:50 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?block_templates=project-grocery-store]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?block_templates=project-grocery-store]]></link>
+			<title>Project Grocery Store</title>
+			<pubDate><![CDATA[Thu, 22 Aug 2024 16:52:50 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?page_templates=project-1]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?page_templates=project-1]]></link>
+			<title>Project 1</title>
+			<pubDate><![CDATA[Tue, 30 Jan 2024 10:29:05 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?page_templates=faqs]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?page_templates=faqs]]></link>
+			<title>Faq’s</title>
+			<pubDate><![CDATA[Sun, 28 Jan 2024 09:30:46 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?page_templates=about-us]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?page_templates=about-us]]></link>
+			<title>About Us</title>
+			<pubDate><![CDATA[Sun, 28 Jan 2024 06:42:23 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?page_templates=contact]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?page_templates=contact]]></link>
+			<title>Contact</title>
+			<pubDate><![CDATA[Mon, 29 Jan 2024 08:58:52 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?page_templates=our-services]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?page_templates=our-services]]></link>
+			<title>Our Services</title>
+			<pubDate><![CDATA[Mon, 29 Jan 2024 04:28:34 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?page_templates=home-page-two]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?page_templates=home-page-two]]></link>
+			<title>Home Page Two</title>
+			<pubDate><![CDATA[Tue, 23 Jan 2024 03:43:20 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?block_templates=about-us-01]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?block_templates=about-us-01]]></link>
+			<title>About Us 01</title>
+			<pubDate><![CDATA[Sun, 14 Jan 2024 05:47:17 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?page_templates=home-page-one]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?page_templates=home-page-one]]></link>
+			<title>Home Page One</title>
+			<pubDate><![CDATA[Sun, 14 Jan 2024 05:46:44 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?page_templates=project-details]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?page_templates=project-details]]></link>
+			<title>Project Details</title>
+			<pubDate><![CDATA[Mon, 29 Jan 2024 09:40:51 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?block_templates=feature-01]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?block_templates=feature-01]]></link>
+			<title>Feature 01</title>
+			<pubDate><![CDATA[Sun, 14 Jan 2024 03:46:54 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?section_templates=feature-section]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?section_templates=feature-section]]></link>
+			<title>Feature Section</title>
+			<pubDate><![CDATA[Sun, 14 Jan 2024 03:40:05 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://gruposole.com.co/?footer_templates=footer-01]]></guid>
+			<link><![CDATA[https://gruposole.com.co/?footer_templates=footer-01]]></link>
+			<title>Footer 01</title>
+			<pubDate><![CDATA[Fri, 04 Sep 2026 01:58:50 +0000]]></pubDate>
+		</item>
+				</channel>
+</rss>

@@ -1,0 +1,90 @@
+{
+  "/": [
+    200,
+    ""
+  ],
+  "/calentadores-de-agua-solares/": [
+    200,
+    ""
+  ],
+  "/calentador-de-agua-solar-presurizado/": [
+    200,
+    ""
+  ],
+  "/calentador-de-agua-solar-sin-presion/": [
+    200,
+    ""
+  ],
+  "/quienes-somos/": [
+    200,
+    ""
+  ],
+  "/shop/": [
+    200,
+    ""
+  ],
+  "/tienda/": [
+    404,
+    ""
+  ],
+  "/carrito/": [
+    404,
+    ""
+  ],
+  "/checkout/": [
+    404,
+    ""
+  ],
+  "/mi-cuenta/": [
+    404,
+    ""
+  ],
+  "/blog/": [
+    404,
+    ""
+  ],
+  "/author/admin/": [
+    404,
+    ""
+  ],
+  "/404-prueba-inexistente/": [
+    404,
+    ""
+  ],
+  "/?s=test": [
+    200,
+    ""
+  ],
+  "/author/publicidad-decoloungegmail-com/": [
+    200,
+    ""
+  ],
+  "/2024/01/31/": [
+    404,
+    ""
+  ],
+  "/cart/": [
+    404,
+    ""
+  ],
+  "/my-account/": [
+    404,
+    ""
+  ],
+  "/finalizar-compra/": [
+    404,
+    ""
+  ],
+  "/xmlrpc.php": [
+    405,
+    ""
+  ],
+  "/search/test/feed/rss2/": [
+    200,
+    ""
+  ],
+  "/default-sitemap.xsl": [
+    200,
+    ""
+  ]
+}

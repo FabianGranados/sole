@@ -1,0 +1,534 @@
+{
+  "ruta": "/",
+  "estado_http": 200,
+  "redirige_a": "",
+  "title": "Energía solar sostenible para hogares y empresas | GRUPO SOLE",
+  "meta_description": "GRUPO SOLE ofrece soluciones de energía solar sostenible para hogares y empresas. Ahorra en costos y contribuye al medio ambiente con nuestras tecnologías accesibles y eficientes.",
+  "robots": "max-image-preview:large",
+  "canonical": "https://gruposole.com.co/",
+  "og": {
+    "og:locale": "es_ES",
+    "og:site_name": "Grupo Sole  - Construcción sostenible",
+    "og:type": "article",
+    "og:title": "Energía solar sostenible para hogares y empresas | GRUPO SOLE",
+    "og:description": "GRUPO SOLE ofrece soluciones de energía solar sostenible para hogares y empresas. Ahorra en costos y contribuye al medio ambiente con nuestras tecnologías accesibles y eficientes.",
+    "og:url": "https://gruposole.com.co/",
+    "og:image": "https://gruposole.com.co/wp-content/uploads/2024/02/cropped-grupo-sole-panda.png",
+    "og:image:secure_url": "https://gruposole.com.co/wp-content/uploads/2024/02/cropped-grupo-sole-panda.png",
+    "article:published_time": "2024-01-31T08:46:16+00:00",
+    "article:modified_time": "2024-10-10T14:45:07+00:00",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Energía solar sostenible para hogares y empresas | GRUPO SOLE",
+    "twitter:description": "GRUPO SOLE ofrece soluciones de energía solar sostenible para hogares y empresas. Ahorra en costos y contribuye al medio ambiente con nuestras tecnologías accesibles y eficientes.",
+    "twitter:image": "https://gruposole.com.co/wp-content/uploads/2024/02/cropped-grupo-sole-panda.png"
+  },
+  "jsonld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://gruposole.com.co/#breadcrumblist",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "@id": "https://gruposole.com.co#listItem",
+              "position": 1,
+              "name": "Home"
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://gruposole.com.co/#organization",
+          "name": "Grupo Sole",
+          "description": "Construcción sostenible",
+          "url": "https://gruposole.com.co/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://gruposole.com.co/wp-content/uploads/2024/02/cropped-grupo-sole-panda.png",
+            "@id": "https://gruposole.com.co/#organizationLogo",
+            "width": 249,
+            "height": 250
+          },
+          "image": {
+            "@id": "https://gruposole.com.co/#organizationLogo"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://gruposole.com.co/#webpage",
+          "url": "https://gruposole.com.co/",
+          "name": "Energía solar sostenible para hogares y empresas | GRUPO SOLE",
+          "description": "GRUPO SOLE ofrece soluciones de energía solar sostenible para hogares y empresas. Ahorra en costos y contribuye al medio ambiente con nuestras tecnologías accesibles y eficientes.",
+          "inLanguage": "es-CO",
+          "isPartOf": {
+            "@id": "https://gruposole.com.co/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://gruposole.com.co/#breadcrumblist"
+          },
+          "datePublished": "2024-01-31T08:46:16-05:00",
+          "dateModified": "2024-10-10T09:45:07-05:00"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://gruposole.com.co/#website",
+          "url": "https://gruposole.com.co/",
+          "name": "Grupo Sole",
+          "description": "Construcción sostenible",
+          "inLanguage": "es-CO",
+          "publisher": {
+            "@id": "https://gruposole.com.co/#organization"
+          }
+        }
+      ]
+    }
+  ],
+  "whatsapp": [
+    "https://wa.me/573202336372"
+  ],
+  "telefonos": [],
+  "emails": [],
+  "youtube": [],
+  "contenido": [
+    {
+      "tipo": "imagen",
+      "archivo": "grupo-sole-panda.png",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/02/grupo-sole-panda.png",
+      "alt": "",
+      "ancho": null,
+      "alto": null,
+      "seccion": "799369e"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "shape-22-1.png",
+      "url": "https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-22-1.png",
+      "alt": "",
+      "ancho": null,
+      "alto": null,
+      "seccion": "799369e"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "shape-26.png",
+      "url": "https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-26.png",
+      "alt": "",
+      "ancho": null,
+      "alto": null,
+      "seccion": "799369e"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Energía Solar para un Futuro Sostenible",
+      "seccion": "799369e"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Transformamos la energía del sol en soluciones accesibles para tu hogar o empresa.",
+      "seccion": "799369e"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "C1.png",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/08/C1.png",
+      "alt": "",
+      "ancho": "230",
+      "alto": "230",
+      "seccion": "26b57421"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Ecosistema de energía",
+      "seccion": "29b8beae"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-widget-container",
+      "texto": "Impactamos la cadena completa de la energía.",
+      "seccion": "29b8beae"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "C1.png",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/08/C1.png",
+      "alt": "",
+      "ancho": "230",
+      "alto": "230",
+      "seccion": "26b57421"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Tecnología",
+      "seccion": "27dd1282"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-widget-container",
+      "texto": "Utilizamos tecnología para transformar la energía.",
+      "seccion": "27dd1282"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "C1.png",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/08/C1.png",
+      "alt": "",
+      "ancho": "230",
+      "alto": "230",
+      "seccion": "26b57421"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Sostenibilidad",
+      "seccion": "46cf2344"
+    },
+    {
+      "tipo": "texto",
+      "widget": "elementor-widget-container",
+      "texto": "Trabajamos en pro del medio ambiente y el desarrollo económico.",
+      "seccion": "46cf2344"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Ecosistema de energía",
+      "seccion": "65b9ba74"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Impactamos la cadena completade la energía.",
+      "seccion": "65b9ba74"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Tecnología",
+      "seccion": "65b9ba74"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Utilizamos tecnología paratransformar la energía.",
+      "seccion": "65b9ba74"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Sostenibilidad",
+      "seccion": "65b9ba74"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Trabajamos en pro del medioambiente y el desarrollo económico.",
+      "seccion": "65b9ba74"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Energía Solar",
+      "seccion": "4121f898"
+    },
+    {
+      "tipo": "h2",
+      "texto": "El Futuro Hoy",
+      "seccion": "4121f898"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "En GRUPO SOLE, creemos que el futuro de la energía es renovable y accesible. Ofrecemos soluciones tecnológicas que aprovechan la energía del sol para impulsar hogares y empresas hacia la autosostenibilidad. Nuestro objetivo es ayudarte a reducir tu huella de carbono y ahorrar en costos energéticos, mientras contribuyes al cuidado del planeta.",
+      "seccion": "4121f898"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "shape-3.png",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/01/shape-3.png",
+      "alt": "",
+      "ancho": "180",
+      "alto": "180",
+      "seccion": "4121f898"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Sistema-solar-de-agua-caliente-en-uso.webp",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/08/Sistema-solar-de-agua-caliente-en-uso.webp",
+      "alt": "",
+      "ancho": "525",
+      "alto": "333",
+      "seccion": "4121f898"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Beneficios-de-los-calentadores-solares-frente-a-los-electricos.webp",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/08/Beneficios-de-los-calentadores-solares-frente-a-los-electricos.webp",
+      "alt": "Beneficios de los calentadores solares frente a los eléctricos",
+      "ancho": "525",
+      "alto": "333",
+      "seccion": "4121f898"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "energias-renovables-para-casas-en-bogota.png",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/08/energias-renovables-para-casas-en-bogota.png",
+      "alt": "",
+      "ancho": "2000",
+      "alto": "1555",
+      "seccion": "34c544d9"
+    },
+    {
+      "tipo": "h2",
+      "texto": "nos comprometemos a un futuro más verde mediante el uso de energías renovables.",
+      "seccion": "65f1a3e"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Comprometidos con el Planeta",
+      "seccion": "34c544d9"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Adoptar energías renovables no solo es una decisión inteligente, sino una responsabilidad con el medio ambiente. En GRUPO SOLE, estamos dedicados a promover un cambio hacia un mundo más verde, donde el uso de energías limpias reemplace a los combustibles fósiles. Únete a nosotros en la misión de proteger nuestro hogar común para las futuras generaciones.",
+      "seccion": "34c544d9"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Soluciones Integrales en Energía Renovable",
+      "seccion": "2548ac57"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Desde calentadores solares hasta avanzadas celdas fotovoltaicas, en GRUPO SOLE desarrollamos e implementamos tecnologías que convierten la energía del sol en poder y ahorro para tu hogar o negocio. Nuestro enfoque integral asegura que cada proyecto se adapte a tus necesidades, maximizando los beneficios y la eficiencia energética.",
+      "seccion": "2548ac57"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Soluciones Integrales en",
+      "seccion": "6531ac78"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Energía Renovable",
+      "seccion": "6531ac78"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Desde calentadores solares hasta avanzadas celdas fotovoltaicas, en GRUPO SOLE desarrollamos e implementamos tecnologías que convierten la energía del sol en poder y ahorro para tu hogar o negocio. Nuestro enfoque integral asegura que cada proyecto se adapte a tus necesidades, maximizando los beneficios y la eficiencia energética.",
+      "seccion": "6531ac78"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Sistemas Fotovoltaicos de Alta Eficiencia",
+      "seccion": "6531ac78"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Calentadores Solares de Agua",
+      "seccion": "6531ac78"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Diseño Personalizado",
+      "seccion": "6531ac78"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Instalación Profesional",
+      "seccion": "6531ac78"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Mantenimiento y Soporte Continuo",
+      "seccion": "6531ac78"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Beneficios Económicos Tangibles",
+      "seccion": "6531ac78"
+    },
+    {
+      "tipo": "item_lista",
+      "texto": "Compromiso con la Sostenibilidad",
+      "seccion": "6531ac78"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Nuestro Legado",
+      "seccion": "5473456"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Más de 1000 Proyectos Completados",
+      "seccion": "5473456"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Con más de 10 años de experiencia y más de 1000 proyectos exitosos, GRUPO SOLE es un líder en la industria de la energía solar. Nuestro equipo de ingenieros trabaja incansablemente para garantizar que cada instalación cumpla con los más altos estándares de calidad y eficiencia. Descubre cómo podemos ayudarte a transformar tu energía.",
+      "seccion": "5473456"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Por Qué",
+      "seccion": "5473456"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Elegir Energía Solar",
+      "seccion": "5473456"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "La energía solar es una fuente inagotable, limpia y accesible que está revolucionando el mundo. Al optar por nuestras soluciones solares, no solo reduces tu dependencia de las fuentes de energía tradicionales, sino que también te beneficias de una energía confiable y sostenible que protege tu bolsillo y el medio ambiente.",
+      "seccion": "5473456"
+    },
+    {
+      "tipo": "h4",
+      "texto": "Descubre cómo ha transformado la vida de nuestros clientes a través de soluciones solares innovadoras.",
+      "seccion": "4f6c3e5b"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Testimonios de Éxito",
+      "seccion": "4f6c3e5b"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Desde que instalamos el sistema solar de GRUPO SOLE en nuestra empresa, hemos visto una reducción del 40% en nuestras facturas de energía. La instalación fue rápida y el servicio al cliente excepcional. ¡Recomendados!",
+      "seccion": "157286ff"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "testimonial-1.png",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/01/testimonial-1.png",
+      "alt": "Image",
+      "ancho": null,
+      "alto": null,
+      "seccion": "157286ff"
+    },
+    {
+      "tipo": "h5",
+      "texto": "Javier López",
+      "seccion": "157286ff"
+    },
+    {
+      "tipo": "h6",
+      "texto": "Fundador, Café Verde",
+      "seccion": "157286ff"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "Como pequeña empresa, siempre estamos buscando maneras de reducir gastos y ser más ecológicos. GRUPO SOLE nos ha ayudado a lograr ambos objetivos con su solución solar.",
+      "seccion": "157286ff"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "testimonial-2.png",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/01/testimonial-2.png",
+      "alt": "Image",
+      "ancho": null,
+      "alto": null,
+      "seccion": "157286ff"
+    },
+    {
+      "tipo": "h5",
+      "texto": "Ana Martínez",
+      "seccion": "157286ff"
+    },
+    {
+      "tipo": "h6",
+      "texto": "Directora de Operaciones, TechInnovate S.A.",
+      "seccion": "157286ff"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "La transición a energía solar con GRUPO SOLE ha sido una de las mejores decisiones que hemos tomado para nuestra casa. La instalación fue sencilla y la calidad del equipo es impresionante. La mejor experiencia.",
+      "seccion": "157286ff"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "testimonial-3.png",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/01/testimonial-3.png",
+      "alt": "Image",
+      "ancho": null,
+      "alto": null,
+      "seccion": "157286ff"
+    },
+    {
+      "tipo": "h5",
+      "texto": "Luis González",
+      "seccion": "157286ff"
+    },
+    {
+      "tipo": "h6",
+      "texto": "Propietarios de Vivienda",
+      "seccion": "157286ff"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Ventajas-de-los-calentadores-de-agua-solares.webp",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/08/Ventajas-de-los-calentadores-de-agua-solares.webp",
+      "alt": "Ventajas de los calentadores de agua solares",
+      "ancho": null,
+      "alto": null,
+      "seccion": "cfadcad"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Calentadores-solares-en-venta.webp",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/08/Calentadores-solares-en-venta.webp",
+      "alt": "Calentadores solares en venta",
+      "ancho": null,
+      "alto": null,
+      "seccion": "cfadcad"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Mantenimiento-de-calentadores-solares-de-agua.webp",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/08/Mantenimiento-de-calentadores-solares-de-agua.webp",
+      "alt": "Mantenimiento de calentadores solares de agua",
+      "ancho": null,
+      "alto": null,
+      "seccion": "cfadcad"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Calentadores-solares-en-bogota-.webp",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/08/Calentadores-solares-en-bogota-.webp",
+      "alt": "Calentadores solares en bogota",
+      "ancho": null,
+      "alto": null,
+      "seccion": "cfadcad"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Instalacion-de-calentadores-solares-en-bogota.webp",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/08/Instalacion-de-calentadores-solares-en-bogota.webp",
+      "alt": "Instalacion de calentadores solares en bogota",
+      "ancho": null,
+      "alto": null,
+      "seccion": "cfadcad"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Beneficios-de-los-calentadores-solares-frente-a-los-electricos.webp",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/08/Beneficios-de-los-calentadores-solares-frente-a-los-electricos.webp",
+      "alt": "Beneficios de los calentadores solares frente a los eléctricos",
+      "ancho": null,
+      "alto": null,
+      "seccion": "cfadcad"
+    },
+    {
+      "tipo": "imagen",
+      "archivo": "Distribuidores-de-calentadores-solares-en-bogota.webp",
+      "url": "https://gruposole.com.co/wp-content/uploads/2024/08/Distribuidores-de-calentadores-solares-en-bogota.webp",
+      "alt": "Distribuidores de calentadores solares en bogota",
+      "ancho": null,
+      "alto": null,
+      "seccion": "cfadcad"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Únete a la Revolución Verde",
+      "seccion": "667d244"
+    },
+    {
+      "tipo": "parrafo",
+      "texto": "El cambio hacia un mundo más sostenible empieza con pequeñas decisiones. En GRUPO SOLE, te ofrecemos la oportunidad de ser parte de la revolución verde mediante la adopción de tecnologías energéticas que respetan y protegen nuestro entorno. No esperes más para hacer tu parte.",
+      "seccion": "667d244"
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dinámicamente generated on 4 octubre, 2026 at 3:34 pm by All in One SEO v5.0.1.1 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://gruposole.com.co/default-sitemap.xsl?sitemap=page_templates"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[https://gruposole.com.co/?page_templates=home-page-three]]></loc>
+		<lastmod><![CDATA[2024-08-22T16:52:53+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-18.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-19.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-8.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-2.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/about-1.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/icon-bg-1.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-26.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/bin-1.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-3.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/skills-1.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/team-1.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/team-2.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://gruposole.com.co/?page_templates=team-page]]></loc>
+		<lastmod><![CDATA[2024-08-22T16:52:53+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/team-11.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/team-12.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/team-13.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/team-8.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/team-9.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/team-10.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://gruposole.com.co/?page_templates=team-details]]></loc>
+		<lastmod><![CDATA[2024-08-22T16:52:53+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/team-14.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://gruposole.com.co/?page_templates=pricing-table]]></loc>
+		<lastmod><![CDATA[2024-08-22T16:52:53+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/bin-1-1.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/bin-2.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/bin-3.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://gruposole.com.co/?page_templates=error-page]]></loc>
+		<lastmod><![CDATA[2024-08-22T16:52:53+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/error.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://gruposole.com.co/?page_templates=garbage-pickup]]></loc>
+		<lastmod><![CDATA[2024-08-22T16:52:53+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/service-4.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/service-5.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/service-6.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://gruposole.com.co/?page_templates=dumpster-rental]]></loc>
+		<lastmod><![CDATA[2024-08-22T16:52:53+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/service-7.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/service-8.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/service-9.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://gruposole.com.co/?page_templates=waste-collection]]></loc>
+		<lastmod><![CDATA[2024-08-22T16:52:53+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/service-10.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/service-11.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/service-12.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://gruposole.com.co/?page_templates=recycling-service]]></loc>
+		<lastmod><![CDATA[2024-08-22T16:52:53+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/service-13.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/service-14.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/service-15.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://gruposole.com.co/?page_templates=residential-service]]></loc>
+		<lastmod><![CDATA[2024-08-22T16:52:53+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/service-16.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/service-17.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/service-18.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://gruposole.com.co/?page_templates=roll-off-dumpster]]></loc>
+		<lastmod><![CDATA[2024-08-22T16:52:53+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/service-19.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/service-20.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/service-21.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://gruposole.com.co/?page_templates=project-details-2]]></loc>
+		<lastmod><![CDATA[2024-08-22T16:52:53+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/project-10.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://gruposole.com.co/?page_templates=projects-2]]></loc>
+		<lastmod><![CDATA[2024-08-22T16:52:53+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/project-4-1.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/project-5.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/project-6.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/project-7.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/project-8.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/01/project-9.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://gruposole.com.co/?page_templates=project-1]]></loc>
+		<lastmod><![CDATA[2024-01-30T10:29:05+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/project-1.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/project-2.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/project-3.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://gruposole.com.co/?page_templates=project-details]]></loc>
+		<lastmod><![CDATA[2024-01-29T09:40:51+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://gruposole.com.co/?page_templates=contact]]></loc>
+		<lastmod><![CDATA[2024-01-29T08:58:52+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://gruposole.com.co/?page_templates=our-services]]></loc>
+		<lastmod><![CDATA[2024-01-29T04:28:34+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-18.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-19.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://gruposole.com.co/?page_templates=faqs]]></loc>
+		<lastmod><![CDATA[2024-01-28T09:30:46+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://gruposole.com.co/?page_templates=about-us]]></loc>
+		<lastmod><![CDATA[2024-01-28T06:42:23+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-3.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/about-1.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/about-2-1.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/about-3-1.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-18.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-19.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-22-1.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-8.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/truck-1.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-22.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-24.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-10.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/team-1.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/team-2.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://gruposole.com.co/?page_templates=home-page-two]]></loc>
+		<lastmod><![CDATA[2024-01-23T03:43:20+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-18.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-19.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/about-4.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/about-5.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-3.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-20.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-10.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/faq-1.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-22-1.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/faq-2-1.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/team-1.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/team-2.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/team-3.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/team-4.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-8.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/truck-1.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-22.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-24.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/clients-1.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/clients-2.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/clients-3.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/clients-4.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/clients-5.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://gruposole.com.co/?page_templates=home-page-one]]></loc>
+		<lastmod><![CDATA[2024-01-14T05:46:44+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-6.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-3.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/about-1.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/about-2-1.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/about-3-1.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/service-1.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/icon-bg-1.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/service-2.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/service-3.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/chooseus-1.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-8.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-2.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-10.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/testimonial-1.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/testimonial-2.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/testimonial-3.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/project-1.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/project-2.jpg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/project-3.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+</urlset>

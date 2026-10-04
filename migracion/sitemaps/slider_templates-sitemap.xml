@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dinámicamente generated on 4 octubre, 2026 at 3:34 pm by All in One SEO v5.0.1.1 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://gruposole.com.co/default-sitemap.xsl?sitemap=slider_templates"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[https://gruposole.com.co/?slider_templates=banner-slider]]></loc>
+		<lastmod><![CDATA[2024-08-22T20:17:57+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/02/cropped-grupo-sole-panda.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://gruposole.com.co/?slider_templates=hero-slider-01]]></loc>
+		<lastmod><![CDATA[2024-08-22T20:15:03+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://gruposole.com.co/wp-content/uploads/2024/02/grupo-sole-panda.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-22-1.png]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://23july.hostlin.com/wastix/wp-content/uploads/2024/01/shape-26.png]]>			</image:loc>
+		</image:image>
+	</url>
+</urlset>

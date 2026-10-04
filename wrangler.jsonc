@@ -1,0 +1,17 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "gruposole",
+  "compatibility_date": "2026-10-01",
+  // Sitio 100% estático: Workers Static Assets, sin script de Worker.
+  "assets": {
+    "directory": "./public",
+    // /quienes-somos -> 301 a /quienes-somos/ (mismas URLs que WordPress)
+    "html_handling": "auto-trailing-slash",
+    // Rutas inexistentes -> public/404.html con estado 404
+    "not_found_handling": "404-page"
+  },
+  "routes": [
+    { "pattern": "gruposole.com.co", "custom_domain": true },
+    { "pattern": "www.gruposole.com.co", "custom_domain": true }
+  ]
+}

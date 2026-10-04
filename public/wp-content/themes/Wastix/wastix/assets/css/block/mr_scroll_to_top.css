@@ -1,0 +1,65 @@
+/** Scroll To Top **/
+.mr_scroll-to-top{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+/*     transform: rotate(90deg); */
+    z-index: 99;
+}
+.mr_scroll-to-top .visible {
+    visibility: visible!important;
+    opacity: 1!important;
+}  
+.mr_scroll-to-top .mr_scroll-top-inner {
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	opacity: 0;
+    visibility: hidden;
+	color: #fff;
+	cursor: pointer;
+	background: var(--theme-color);
+}  
+/* .mr_scroll-to-top .mr_scroll-top-inner{
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-transition: all cubic-bezier(.4,0,.2,1) .4s;
+    -o-transition: all cubic-bezier(.4,0,.2,1) .4s;
+    transition: all cubic-bezier(.4,0,.2,1) .4s;
+}   */
+.mr_scroll-to-top .mr_scroll-bar {
+    position: relative;
+}
+.mr_scroll-to-top .mr_scroll-bar:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #f4244f;
+    opacity: .3;
+}  
+.mr_scroll-to-top .mr_scroll-bar .mr_bar-inner {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    background-color: currentColor;
+}  
+.mr_scroll-to-top .mr_scroll-bar-text{
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 500ms ease;
+}  
+.mr_scroll-to-top .mr_scroll-bar-text:hover{
+    transform: scale(1.1);
+}

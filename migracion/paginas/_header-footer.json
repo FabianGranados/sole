@@ -1,0 +1,92 @@
+{
+  "header": [
+    {
+      "a": "",
+      "href": "https://gruposole.com.co/"
+    },
+    {
+      "img": "https://gruposole.com.co/wp-content/uploads/2024/02/Grupo-Sole-scaled.webp",
+      "alt": "logo"
+    },
+    {
+      "a": "Grupo Sole",
+      "href": "https://gruposole.com.co/"
+    },
+    {
+      "a": "Quienes Somos",
+      "href": "https://gruposole.com.co/quienes-somos/"
+    },
+    {
+      "a": "Calentadores de Agua",
+      "href": "https://gruposole.com.co/calentadores-de-agua-solares/"
+    },
+    {
+      "a": "",
+      "href": "https://gruposole.com.co/"
+    },
+    {
+      "img": "https://gruposole.com.co/wp-content/uploads/2024/02/Grupo-Sole-scaled.webp",
+      "alt": "logo"
+    }
+  ],
+  "footer": [
+    {
+      "img": "https://gruposole.com.co/wp-content/uploads/2024/01/Grupo-sole-logo-blanco.png",
+      "alt": "Grupo sole logo blanco"
+    },
+    {
+      "li": "Grupo Sole"
+    },
+    {
+      "a": "Grupo Sole",
+      "href": "https://gruposole.com.co/"
+    },
+    {
+      "li": "Quienes Somos"
+    },
+    {
+      "a": "Quienes Somos",
+      "href": "https://gruposole.com.co/quienes-somos/"
+    },
+    {
+      "li": "Calentador de Agua"
+    },
+    {
+      "a": "Calentador de Agua",
+      "href": "#"
+    },
+    {
+      "h2": "Contáctanos"
+    },
+    {
+      "li": "WhatsApp : 320 2336372"
+    },
+    {
+      "a": "WhatsApp : 320 2336372",
+      "href": "https://wa.me/573202336372"
+    },
+    {
+      "a": "Facebook-f",
+      "href": "https://www.facebook.com/"
+    },
+    {
+      "a": "Twitter",
+      "href": "https://twitter.com/"
+    },
+    {
+      "a": "Instagram",
+      "href": "https://www.instagram.com/"
+    },
+    {
+      "a": "Linkedin",
+      "href": "https://www.linkedin.com/"
+    },
+    {
+      "h2": "© 2024 Todos los Derechos Reservados."
+    },
+    {
+      "a": "© 2024 Todos los Derechos Reservados.",
+      "href": "#"
+    }
+  ]
+}
