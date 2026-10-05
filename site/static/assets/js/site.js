@@ -19,6 +19,18 @@
     });
   }
 
+  /* Menú de servicios: Escape lo cierra y al elegir una opción se oculta enseguida */
+  var mega = document.querySelector(".has-mega");
+  if (mega) {
+    mega.addEventListener("keydown", function (e) {
+      if (e.key === "Escape") { mega.classList.add("closed"); document.activeElement.blur(); }
+    });
+    mega.addEventListener("mouseleave", function () { mega.classList.remove("closed"); });
+    mega.querySelectorAll(".mega a").forEach(function (a) {
+      a.addEventListener("click", function () { mega.classList.add("closed"); });
+    });
+  }
+
   /* Analytics: clics a WhatsApp como evento de contacto */
   document.addEventListener("click", function (e) {
     var a = e.target.closest && e.target.closest("a[data-wa]");
