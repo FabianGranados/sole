@@ -8,14 +8,14 @@ Necesito desplegar un sitio estático en **Cloudflare Workers con Static Assets*
 GitHub, y servirlo en el dominio **gruposole.com.co** (con www).
 
 **Repositorio:** `https://github.com/FabianGranados/sole` — rama de producción `main`.
-(Si `main` aún no tiene el código, usa la rama `claude/laughing-cannon-t3srhr`.)
+(Las demás ramas se publican como versiones de vista previa.)
 
 **El repo ya trae todo configurado; no crees código nuevo ni un script de Worker:**
-- `wrangler.jsonc` → Worker `gruposole`, solo assets desde `./public`,
-  `html_handling: "auto-trailing-slash"`, `not_found_handling: "404-page"`, y rutas
-  `custom_domain` para `gruposole.com.co` y `www.gruposole.com.co`.
-- `public/_redirects` y `public/_headers` → redirecciones y cabeceras (los lee Workers Static Assets).
-- No hay paso de build: el sitio ya está generado en `public/`.
+- `wrangler.jsonc` → Worker `gruposole`, solo assets desde `./dist`,
+  `html_handling: "auto-trailing-slash"`, `not_found_handling: "404-page"`, rutas
+  `custom_domain` para `gruposole.com.co` y `www.gruposole.com.co`, y un `build.command`
+  (`node scripts/build.mjs`) que wrangler ejecuta solo antes de desplegar.
+- El build genera `dist/` con `_redirects`, `_headers`, `sitemap.xml` y `robots.txt`.
 
 **Pasos:**
 
@@ -28,7 +28,7 @@ GitHub, y servirlo en el dominio **gruposole.com.co** (con www).
 2. **Crear el Worker desde Git** (Workers & Pages → Create → Import a repository):
    - Repositorio: `FabianGranados/sole`, rama `main`.
    - Nombre del proyecto: `gruposole` (debe coincidir con `name` en `wrangler.jsonc`).
-   - Build command: *(vacío)*
+   - Build command: *(vacío — wrangler ejecuta el build definido en `wrangler.jsonc`)*
    - Deploy command: `npx wrangler deploy`
    - Directorio raíz: `/`
    - Activa builds automáticos en cada push a `main` y versiones de vista previa para otras ramas.
@@ -44,10 +44,12 @@ GitHub, y servirlo en el dominio **gruposole.com.co** (con www).
 5. **SSL/TLS:** modo *Full (strict)*, "Always Use HTTPS" activado, HSTS opcional.
 
 6. **Verificación** (contra `https://gruposole.com.co`, o la URL `*.workers.dev` si el DNS aún no propaga):
-   - 200: `/`, `/calentadores-de-agua-solares/`, `/calentador-de-agua-solar-presurizado/`,
-     `/calentador-de-agua-solar-sin-presion/`, `/quienes-somos/`, `/sitemap.xml`, `/robots.txt`,
+   - 200: `/`, `/servicios/`, `/servicios/cumplimiento-ambiental/`, `/sectores/hidrocarburos/`,
+     `/diagnostico-ambiental/`, `/calentadores-de-agua-solares/`, `/calentador-de-agua-solar-presurizado/`,
+     `/calentador-de-agua-solar-sin-presion/`, `/sitemap.xml`, `/robots.txt`,
      `/wp-content/uploads/2024/11/Calentador-de-agua-solar-presurizado.pdf`
-   - 301/307 a la versión con slash: `/quienes-somos`
+   - 301 a `/nosotros/`: `/quienes-somos/`
+   - 307 a la versión con slash: `/nosotros`
    - 301 a `/calentadores-de-agua-solares/`: `/shop/`
    - 301 a `/`: `/author/publicidad-decoloungegmail-com/`
    - 404 con la página de error del sitio: `/no-existe/`
@@ -60,7 +62,8 @@ GitHub, y servirlo en el dominio **gruposole.com.co** (con www).
 
 ## Después del cambio de DNS
 
-- En **Google Search Console**: enviar `https://gruposole.com.co/sitemap.xml` y quitar los
+- En **Google Search Console**: enviar `https://gruposole.com.co/sitemap.xml` (39 URLs) y quitar los
   sitemaps viejos de All in One SEO (`page-sitemap.xml`, `sitemap.rss`, plantillas del tema).
+  Pedir indexación de `/`, `/servicios/` y `/sectores/hidrocarburos/`.
 - Comprobar en Google Analytics (G-DD41N7LS6K) que siguen llegando visitas.
 - Mantener el hosting de Hostinger unos días como respaldo antes de cancelarlo.

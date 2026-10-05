@@ -2,12 +2,17 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "gruposole",
   "compatibility_date": "2026-10-01",
-  // Sitio 100% estático: Workers Static Assets, sin script de Worker.
+  // El sitio se genera con scripts/build.mjs (Node, sin dependencias) antes de cada
+  // `wrangler dev` y `wrangler deploy`. Cloudflare Workers Builds lo ejecuta solo.
+  "build": {
+    "command": "node scripts/build.mjs"
+  },
+  // Sitio estático: Workers Static Assets, sin script de Worker.
   "assets": {
-    "directory": "./public",
-    // /quienes-somos -> 301 a /quienes-somos/ (mismas URLs que WordPress)
+    "directory": "./dist",
+    // /nosotros -> /nosotros/ (URLs con slash final, como en WordPress)
     "html_handling": "auto-trailing-slash",
-    // Rutas inexistentes -> public/404.html con estado 404
+    // Rutas inexistentes -> dist/404.html con estado 404
     "not_found_handling": "404-page"
   },
   "routes": [

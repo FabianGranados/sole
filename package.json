@@ -1,7 +1,9 @@
 {
   "name": "gruposole",
   "private": true,
+  "type": "module",
   "scripts": {
+    "build": "node scripts/build.mjs",
     "dev": "wrangler dev",
     "deploy": "wrangler deploy"
   },

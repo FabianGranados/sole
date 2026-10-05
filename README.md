@@ -1,59 +1,61 @@
 # Grupo Sole — gruposole.com.co
 
-Copia exacta del sitio WordPress (tema Wastix + Elementor) convertida a sitio estático y
-desplegada en **Cloudflare Workers (Static Assets)**. Sin PHP, sin base de datos.
+Sitio de **Grupo Sole · Consultoría Ambiental**: permisos, licenciamiento, cumplimiento
+ambiental y due diligence (con énfasis en hidrocarburos). La línea de **energía solar**
+(calentadores) se conserva con sus mismas URLs para no perder su posicionamiento.
 
-Flujo: **push a `main` en GitHub → Cloudflare Workers Builds despliega automáticamente.**
+Flujo: **push a `main` en GitHub → Cloudflare Workers Builds genera y despliega el sitio.**
 
-## Estructura
+## Cómo está hecho
+
+Sitio estático generado con un script de Node **sin dependencias** (`scripts/build.mjs`).
+Wrangler lo ejecuta solo antes de `wrangler dev` y `wrangler deploy` (ver `build` en
+`wrangler.jsonc`) y publica `dist/` con Workers Static Assets.
 
 | Ruta | Qué es |
 |---|---|
-| `public/` | **El sitio.** Lo que se publica tal cual. |
-| `public/index.html`, `public/<slug>/index.html` | Las 5 páginas, mismas URLs que WordPress (con `/` final) |
-| `public/404.html` | Página de error (se sirve con estado 404) |
-| `public/wp-content/`, `public/wp-includes/` | CSS, JS, fuentes, imágenes y PDF originales, con su misma ruta |
-| `public/_redirects` | Redirecciones 301 (/shop/, /author/…, sitemaps viejos, /wp-admin/) |
-| `public/_headers` | Cabeceras de seguridad y caché |
-| `public/sitemap.xml`, `public/robots.txt` | Sitemap limpio (solo las 5 páginas) |
-| `wrangler.jsonc` | Configuración del Worker |
-| `scripts/migrar.py` | Script único que generó `public/` desde el paquete de migración |
-| `scripts/elementor-chunks/` | 5 JS de Elementor que faltaban en el respaldo, reconstruidos |
-| `migracion/` | Documentación del sitio original (textos, SEO, HTML servido por WordPress) |
+| `site/content/servicios.mjs` | **Contenido de las 22 páginas de servicio** (4 líneas + 18 servicios): textos, ficha, FAQ, normativa, mensaje de WhatsApp |
+| `site/pages/` | Inicio, sectores, hidrocarburos, autodiagnóstico, nosotros, contacto, recursos, privacidad, energía solar y calentadores |
+| `site/lib/layout.mjs` | Encabezado, menú, pie, `<head>` (SEO, Open Graph, JSON-LD, Google tag) |
+| `site/lib/components.mjs` | Componentes y plantilla de página de servicio |
+| `site/lib/base.mjs` | Teléfonos de WhatsApp, ID de Google tag, íconos |
+| `site/static/` | CSS, JS, fuentes autoalojadas, logos, imágenes y PDF (se copian tal cual) |
+| `site/imagenes.json` | Ancho y alto de cada imagen (para evitar saltos de diseño) |
+| `scripts/build.mjs` | Genera `dist/`, el fondo topográfico, `sitemap.xml`, `robots.txt`, `_redirects` y `_headers`; **falla si hay enlaces internos rotos** |
+| `migracion/` | Referencia: sitio WordPress original y documento de contenido de la consultoría |
 
-## Editar contenido
-
-Edita directamente el HTML en `public/…/index.html`, haz commit y push. Las imágenes nuevas
-van en `public/` (por ejemplo `public/img/`) y se enlazan con ruta absoluta (`/img/foto.webp`).
-
-## Probar localmente
+## Tareas comunes
 
 ```bash
 npm install
-npm run dev        # http://localhost:8787
+npm run dev      # genera y sirve en http://localhost:8787
+npm run build    # solo genera dist/
 ```
 
-## Desplegar a mano (opcional)
+- **Cambiar un texto de servicio:** `site/content/servicios.mjs`.
+- **Cambiar el WhatsApp:** `site/lib/base.mjs` (`wa`, `waLabel`) y `site/static/assets/js/site.js` (`WA`).
+- **Nueva página:** crea el objeto en `site/pages/` (path, title, description, crumbs, body) y agrégalo a `PAGINAS` en `scripts/build.mjs`. Entra sola al sitemap.
+- **Nueva imagen:** ponla en `site/static/…` y agrega su tamaño en `site/imagenes.json`.
+- **Redirección 301:** agrégala a `REDIRECCIONES` en `scripts/build.mjs`.
 
-```bash
-npx wrangler deploy
-```
+## Diseño
 
-## Qué se cambió respecto a WordPress
+Concepto "expediente técnico": papel y tinta, curvas de nivel, fichas técnicas, tablas,
+numeración de secciones (§) y el naranja del logo como color de señal.
+Tipografías autoalojadas: Newsreader (títulos), IBM Plex Sans (texto), IBM Plex Mono (metadatos).
 
-- Recursos con URL relativa a la raíz (funciona igual en `*.workers.dev` y en el dominio).
-  `canonical`, Open Graph y JSON-LD siguen apuntando a `https://gruposole.com.co/`.
-- Quitadas etiquetas que dependían de WordPress: wp-json, xmlrpc/RSD, feeds, oEmbed, emoji,
-  y las hojas/JS que ya daban 404 en el servidor viejo (incluidas `color.php` del tema,
-  que generaban CSS vacío).
-- Generadas las 59 miniaturas (`-300x190.webp`, etc.) que el HTML pedía en `srcset`.
-- Reconstruidos los chunks de Elementor de carrusel, acordeón y sección estirada.
-- El CSS de la lista de íconos se carga en todas las páginas (antes los íconos del pie salían
-  gigantes en las páginas de producto).
-- `/shop/` (tienda “coming soon” en inglés) → 301 a `/calentadores-de-agua-solares/`;
-  `/author/…` (expone un correo) → 301 a `/`.
-- Se mantiene igual: textos, `<title>`, meta description, imágenes y alt, PDF, enlaces de
-  WhatsApp, botón flotante, aviso de cookies y la etiqueta de Google `GT-PJS7FBKV`.
+## SEO
 
-Pendientes sugeridos (ver `migracion/README-MIGRACION.md` §7): un H1 por página, URLs reales
-de redes sociales en el pie, el botón “Características Técnicas” que apunta a `#`.
+- Cada página tiene `<title>`, meta description, canonical, Open Graph y JSON-LD
+  (`ProfessionalService`, `Service`, `FAQPage`, `BreadcrumbList`, `Product` en calentadores).
+- Las páginas de calentadores conservan URL, `<title>`, textos, imágenes con su alt y PDF.
+- `/quienes-somos/` → 301 a `/nosotros/`; demás URLs viejas de WordPress en `REDIRECCIONES`.
+- Google tag `GT-PJS7FBKV` en todas las páginas; los clics a WhatsApp se registran como evento `contacto_whatsapp` y el autodiagnóstico como `autodiagnostico`.
+
+## Pendiente del dueño (ver `migracion/contenido-consultoria-ambiental.md` §13)
+
+- Nombre, matrícula COPNIA y trayectoria del director técnico (para "Nosotros").
+- Correo corporativo, ciudad base y redes sociales reales.
+- 3 casos reales para una sección de proyectos (hoy oculta).
+- Validar con el ingeniero la vigencia de la normativa citada (en especial el Decreto 766 de 2026).
+- Confirmar si se siguen vendiendo calentadores; si no, cambiar sus URLs por 301 a `/servicios/`.
